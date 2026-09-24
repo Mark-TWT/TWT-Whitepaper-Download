@@ -18,7 +18,7 @@ function downloadPdf() {
     }
 
     fetch(
-        "PUT-YOUR-APPS-SCRIPT-EXEC-URL-HERE",
+        "https://script.google.com/macros/s/AKfycbx0M2sPOjP4ns1Hd1YmtLTy-_g9cq9qcxfQsAuY1zChSkT6Uid3-SLfUyNMKqLuyy2_RA/exec",
         {
             method: "POST",
             mode: "no-cors",
